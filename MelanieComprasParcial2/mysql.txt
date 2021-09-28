@@ -1,0 +1,58 @@
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
+
+-- -----------------------------------------------------
+-- Schema mydb
+-- -----------------------------------------------------
+-- -----------------------------------------------------
+-- Schema sic2
+-- -----------------------------------------------------
+DROP SCHEMA IF EXISTS `sic2` ;
+
+-- -----------------------------------------------------
+-- Schema sic2
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `sic2` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci ;
+USE `sic2` ;
+
+-- -----------------------------------------------------
+-- Table `sic2`.`compras_encabezado`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `sic2`.`compras_encabezado` ;
+
+CREATE TABLE IF NOT EXISTS `sic2`.`compras_encabezado` (
+  `documento_compraenca` VARCHAR(10) NOT NULL,
+  `codigo_proveedor` VARCHAR(5) NULL DEFAULT NULL,
+  `fecha_compraenca` DATE NULL DEFAULT NULL,
+  `total_compraenca` FLOAT(10,2) NULL DEFAULT NULL,
+  `estatus_compraenca` VARCHAR(1) NULL DEFAULT NULL,
+  PRIMARY KEY (`documento_compraenca`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+-- -----------------------------------------------------
+-- Table `sic2`.`compras_detalle`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `sic2`.`compras_detalle` ;
+
+CREATE TABLE IF NOT EXISTS `sic2`.`compras_detalle` (
+  `documento_compraenca` VARCHAR(10) NOT NULL,
+  `codigo_producto` VARCHAR(18) NOT NULL,
+  `cantidad_compradet` FLOAT(10,2) NULL DEFAULT NULL,
+  `costo_compradet` FLOAT(10,2) NULL DEFAULT NULL,
+  `codigo_bodega` VARCHAR(5) NULL,
+  PRIMARY KEY (`documento_compraenca`, `codigo_producto`),
+  CONSTRAINT `compras_detalle_ibfk_1`
+    FOREIGN KEY (`documento_compraenca`)
+    REFERENCES `sic2`.`compras_encabezado` (`documento_compraenca`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;

@@ -1,0 +1,40 @@
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.AssemblyReference.cache
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.AgregarDetalle.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.EliminarDetalle.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.VerDetalle.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Encabezado.VerEncabezado.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.MDI.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Properties.Resources.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.GenerateResource.cache
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.CoreCompileInputs.cache
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\MelanieComprasParcial2.exe.config
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\MelanieComprasParcial2.exe
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\MelanieComprasParcial2.pdb
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.exe
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.pdb
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\Dapper.dll
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\Dapper.xml
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.CopyComplete
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.ActualizarDetalle.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Encabezado.AgregarEncabezado.resources
+C:\Users\CORE i7 6TA WIN10\source\repos\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Encabezado.EliminarEncabezado.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\MelanieComprasParcial2.exe.config
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\MelanieComprasParcial2.exe
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\MelanieComprasParcial2.pdb
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\Dapper.dll
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\bin\Debug\Dapper.xml
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csprojAssemblyReference.cache
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.ActualizarDetalle.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.AgregarDetalle.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.EliminarDetalle.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Detalles.VerDetalle.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Encabezado.AgregarEncabezado.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Encabezado.EliminarEncabezado.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Vista.Encabezado.VerEncabezado.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.MDI.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.Properties.Resources.resources
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.GenerateResource.cache
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.csproj.CopyComplete
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.exe
+C:\Users\Melanie\Downloads\MelanieComprasParcial2\MelanieComprasParcial2\obj\Debug\MelanieComprasParcial2.pdb
